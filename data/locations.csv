@@ -1,0 +1,8 @@
+survey_name,aliases,upazila,district,division,adm3_pcode,lat,lon,area_sqkm,source,note
+Chilmari,Chilmari,Chilmari,Kurigram,Rangpur,BD55490009,25.55472,89.7126,243.6,"BBS/OCHA COD-AB bgd_admin3 (HDX cod-ab-bgd), representative point of polygon",
+Fulcchari,Fulcchari|Fulchari|Fulchhari|Phulchhari,Fulchhari,Gaibandha,Rangpur,BD55320021,25.23848,89.65176,310.7,"BBS/OCHA COD-AB bgd_admin3 (HDX cod-ab-bgd), representative point of polygon",Survey spelling 'Fulcchari'; official BBS spelling 'Fulchhari'.
+Kurigram Sadar,Kurigram Sadar,Kurigram Sadar,Kurigram,Rangpur,BD55490052,25.83232,89.70226,274.1,"BBS/OCHA COD-AB bgd_admin3 (HDX cod-ab-bgd), representative point of polygon",
+Sadullapur,Sadullapur,Sadullapur,Gaibandha,Rangpur,BD55320082,25.40013,89.43194,228.6,"BBS/OCHA COD-AB bgd_admin3 (HDX cod-ab-bgd), representative point of polygon",
+Sariakandi,Sariakandi,Sariakandi,Bogura,Rajshahi,BD50100081,24.89341,89.59325,416.3,"BBS/OCHA COD-AB bgd_admin3 (HDX cod-ab-bgd), representative point of polygon",
+Sherpur,Sherpur,Sherpur,Bogura,Rajshahi,BD50100088,24.63034,89.42535,297.0,"BBS/OCHA COD-AB bgd_admin3 (HDX cod-ab-bgd), representative point of polygon","INFERRED: Sherpur Upazila (Bogura), chosen because the other six locations are riverine upazilas in Kurigram/Gaibandha/Bogura. Not Sherpur Sadar (Sherpur district)."
+Sughatta,Saghata|Shaghata|Sughatta,Saghata,Gaibandha,Rangpur,BD55320088,25.13722,89.55733,233.4,"BBS/OCHA COD-AB bgd_admin3 (HDX cod-ab-bgd), representative point of polygon",Survey spelling 'Sughatta'; official BBS spelling 'Saghata'.
